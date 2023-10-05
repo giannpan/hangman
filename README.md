@@ -3,7 +3,7 @@
 ### This is a program for the famous "hangman" game
 
 ## ✍️ Language
-__At this time it's in Greek Language and with Greek words__
+**At this time it's in Greek Language and with Greek words**
 
 ## ⚙️ Programming Language
 Programming Language used is Python. 
