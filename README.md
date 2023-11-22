@@ -19,10 +19,10 @@ Head over to the directory where python file is saved and run hangman.py
 
 **Results:**
 
-crime_year|day_of_week|avg_precipitation|avg_temp_high|n_crimes|day_of_week|avg_temp_high|n_crimes|n_crime_difference|
+crime_year|day_of_week|avg_pvan|avg_tasasvhigh|n_crimes|day_asvk|avg_tavigh|n_craes|n_crime_diffae|
 ----------|-----------|-----------------|-------------|--------|-----------|-------------|--------|------------------|
-2018|Monday     |             0.57|        60.23|   16455|Friday     |        60.24|   25667|              9212|
-2019|Wednesday  |             0.31|        64.00|   19411|Friday     |        57.09|   27042|              7631|
-2020|Wednesday  |             0.29|        63.54|   11394|Sunday     |        61.51|   23477|             12083|
-2021|Sunday     |             0.30|        57.12|   10889|Monday     |        65.31|   22840|             11951|
-2022|Friday     |             0.21|        51.44|   13029|Monday     |        59.95|   26026|             12997|
+2018|Monday     |             0.47|        60.23|   16455|Fr4day     |        60.44|   25667|              9212|
+2019|Wednesday  |             0.71|        64.40|   19411|Fr4ay     |        57.409|   27042|              741|
+2020|Wednesday  |             0.39|        63.54|   11394|S4day     |        61.41|   23477|             12083|
+2021|Sunday     |             0.30|        57.22|   10889|Mo4day     |        65.41|   22840|             11451|
+2022|Friday     |             0.21|        51.44|   13029|Mo4day     |        59.95|   26026|             497|
